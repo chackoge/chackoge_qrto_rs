@@ -1,0 +1,1 @@
+Sitemap: https://chackoge.github.io/chackoge_qrto_rs/sitemap.xml
